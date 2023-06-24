@@ -78,10 +78,10 @@ st.write(
     governance, IT Audit, creating policies and procedures, providing training, conducting financial 
     investigations, and so on.
     Under his leadership, Kumari Bank became one of the first five banks out of 28 commercial banks of
-    Nepal to go live for goAML before the deadline given by regulatory bodies.
+    Nepal to go live for goAML before the deadline given by regulatory bodies. He is also Nepal's first 
+    person with advanced ACAMS certification (CAMS-Audit).
 
-    He is also Nepal's first person with advanced ACAMS certification (CAMS-Audit).
-
+   
     Mr.Kiran Kumar Shah and Siorik Consultancy teamed up to create this course AML/CFT Zero to Hero Couse
     to help beginners as well as professionals to help them master different aspects of AML/CFT. In this course
     you will be taught in theoretical aspects and how to apply that knowledge practically. You will
