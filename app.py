@@ -74,18 +74,24 @@ st.write(
     """
     Mr. Kiran Kumar Shah is a Risk Management Professional with knowledge and experience in different
     risk management areas including IT Audit, AML/CFT, Compliance, and Cyber Security. In his 12 years 
-    of experience in different commercial banks, he was responsible for establishing Risk management 
+    of experience in various commercial banks, he was responsible for establishing Risk management 
     governance, IT Audit, creating policies and procedures, providing training, conducting financial 
     investigations, and so on.
     Under his leadership, Kumari Bank became one of the first five banks out of 28 commercial banks of
     Nepal to go live for goAML before the deadline given by regulatory bodies.
 
-    He is also the first person in Nepal who holds advanced ACAMS certification (CAMS-Audit).
+    He is also Nepal's first person with advanced ACAMS certification (CAMS-Audit).
+
+    Mr.Kiran Kumar Shah and Siorik Consultancy teamed up to create this course AML/CFT Zero to Hero Couse
+    to help beginners as well as professionals to help them master different aspects of AML/CFT. In this course
+    you will be taught in theoretical aspects and how to apply that knowledge practically. You will
+    be also introduced to tools like Power BI, Tableau, SQL, and Machine Learning to make you an efficient and 
+    effective AML Analyst. So check out this course by visiting the following link.
 
 
 # """
 )
-
+st.write('https://www.udemy.com/course/amlcft-zero-to-hero-course/?referralCode=CD51C836B3518E24CA71 👨‍🏫') 
 
 # # --- SKILLS ---
 # st.write('\n')
